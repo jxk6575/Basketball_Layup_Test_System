@@ -1,4 +1,0 @@
-conda activate yolo
-D:
-cd code/basketball
-cd Basketball_layup_test_system
