@@ -1,0 +1,77 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Type checkers / linters
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# PyTorch / ML artifacts
+*.pt
+*.pth
+*.onnx
+*.engine
+*.tensorrt
+wandb/
+
+# Project-specific: model weights directory (keep folder, ignore binaries)
+weights/*
+!weights/.gitkeep
+
+# Generated outputs
+outputs/
+
+# Local / environment-specific court configs and run results (not published)
+generate_tree.py
+init.txt
+project_structure.txt
+configs/results/
+configs/start_end_lines/
+configs/three_point_areas/
+
+# Local input media (large files; keep empty directory placeholder)
+inputs/**
+!inputs/.gitkeep
+
+# Logs
+*.log
+logs/
