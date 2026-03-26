@@ -1,0 +1,14 @@
+{
+  "message_id": "<String uuid>",
+  "game_id": "<String uuid>",
+  "message_type": "event",
+  "message_timestamp": "<Number>",
+  "data": {
+    "events": [
+      {
+        "event_category": "<String enum>",
+        "timestamp": "<Number>"
+      }
+    ]
+  }
+}

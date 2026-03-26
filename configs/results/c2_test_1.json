@@ -1,0 +1,136 @@
+{
+    "fileName": "c2_test_1.mp4",
+    "courtName": "c2",
+    "duration": 3600.5,
+    "resolution": "1920x1080",
+    "frameRate": 60,
+    "recordedAt": "2025-10-26T11:08:40Z",
+    "totalScore": 5,
+    "events": [
+        {
+            "id": 1,
+            "timestamp": 172,
+            "type": "out_three_point"
+        },
+        {
+            "id": 2,
+            "timestamp": 176,
+            "type": "line_crossing"
+        },
+        {
+            "id": 3,
+            "timestamp": 176,
+            "type": "start"
+        },
+        {
+            "id": 4,
+            "timestamp": 369,
+            "type": "first_shot_missed"
+        },
+        {
+            "id": 5,
+            "timestamp": 644,
+            "type": "retry_shot_made"
+        },
+        {
+            "id": 6,
+            "timestamp": 862,
+            "type": "out_three_point"
+        },
+        {
+            "id": 7,
+            "timestamp": 875,
+            "type": "out_three_point"
+        },
+        {
+            "id": 8,
+            "timestamp": 896,
+            "type": "out_three_point"
+        },
+        {
+            "id": 9,
+            "timestamp": 1080,
+            "type": "first_shot_missed"
+        },
+        {
+            "id": 10,
+            "timestamp": 1213,
+            "type": "retry_shot_made"
+        },
+        {
+            "id": 11,
+            "timestamp": 1383,
+            "type": "out_three_point"
+        },
+        {
+            "id": 12,
+            "timestamp": 1416,
+            "type": "out_three_point"
+        },
+        {
+            "id": 13,
+            "timestamp": 1424,
+            "type": "out_three_point"
+        },
+        {
+            "id": 14,
+            "timestamp": 1584,
+            "type": "first_shot_missed"
+        },
+        {
+            "id": 15,
+            "timestamp": 1696,
+            "type": "retry_shot_made"
+        },
+        {
+            "id": 16,
+            "timestamp": 1866,
+            "type": "out_three_point"
+        },
+        {
+            "id": 17,
+            "timestamp": 1870,
+            "type": "out_three_point"
+        },
+        {
+            "id": 18,
+            "timestamp": 1902,
+            "type": "out_three_point"
+        },
+        {
+            "id": 19,
+            "timestamp": 1907,
+            "type": "out_three_point"
+        },
+        {
+            "id": 20,
+            "timestamp": 2095,
+            "type": "first_shot_missed"
+        },
+        {
+            "id": 21,
+            "timestamp": 2190,
+            "type": "retry_shot_made"
+        },
+        {
+            "id": 22,
+            "timestamp": 2345,
+            "type": "out_three_point"
+        },
+        {
+            "id": 23,
+            "timestamp": 2347,
+            "type": "out_three_point"
+        },
+        {
+            "id": 24,
+            "timestamp": 2367,
+            "type": "line_crossing"
+        },
+        {
+            "id": 25,
+            "timestamp": 2367,
+            "type": "end"
+        }
+    ]
+}

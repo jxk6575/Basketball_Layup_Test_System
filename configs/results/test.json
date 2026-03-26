@@ -1,0 +1,26 @@
+{
+    "fileName": "standard.mp4",
+    "courtName": "",
+    "duration": 3600.5,
+    "resolution": "1920x1080",
+    "frameRate": 60,
+    "recordedAt": "2025-10-26T11:08:40Z",
+    "totalScore": 0,
+    "events": [
+        {
+            "id": 1,
+            "timestamp": 35,
+            "type": "out_three_point"
+        },
+        {
+            "id": 2,
+            "timestamp": 39,
+            "type": "line_crossing"
+        },
+        {
+            "id": 3,
+            "timestamp": 39,
+            "type": "start"
+        }
+    ]
+}
